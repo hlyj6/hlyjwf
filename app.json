@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#6ac6f9",
+    "navigationBarBackgroundColor": "#6ac6f9",
+    "navigationBarTitleText": "黄乐一捷的天气预报",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
